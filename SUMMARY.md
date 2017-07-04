@@ -10,5 +10,4 @@
 * [Uso de una herramienta](uso-de-una-herramienta.md)
 * [Respuestas básicas que podemos obtener con un ordenador](respuestas-basicas-que-podemos-obtener-con-un-ordenador.md)
 * [Grados de implicacion del ordenador en la obra](grados-de-implicacion-del-ordenador-en-la-obra.md)
-* Introducción
 
