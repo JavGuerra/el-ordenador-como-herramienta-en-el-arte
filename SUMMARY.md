@@ -11,4 +11,5 @@
 * [Respuestas básicas que podemos obtener con un ordenador](respuestas-basicas-que-podemos-obtener-con-un-ordenador.md)
 * [Grados de implicacion del ordenador en la obra](grados-de-implicacion-del-ordenador-en-la-obra.md)
 * [Un futuro cercano](un-futuro-cercano.md)
+* [Lectura recomendada](lectura-recomendada.md)
 

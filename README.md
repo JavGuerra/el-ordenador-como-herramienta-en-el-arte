@@ -17,9 +17,3 @@ Varias reseñas y datos incluidos en el texto tienen su origen en artículos pub
 
 El texto, visitado 20 años después de su fecha de elaboración, sin duda muestra conceptos ya superados, que se han mantenido en el documento para conocimiento de los lectores.
 
-**Lectura recomendada**
-
-Recomiendo un interesante y poco conocido trabajo de Enrique Castaños Alés: "Los orígenes del arte cibernético en España, el seminario de Generación Automática de Formas Plásticas del Centro de Cálculo de la Universidad de Madrid \(1968-1973\)".
-
-[http://www.cervantesvirtual.com/FichaObra.html?Ref=3162&ext=pdf](http://www.cervantesvirtual.com/FichaObra.html?Ref=3162&ext=pdf)
-
