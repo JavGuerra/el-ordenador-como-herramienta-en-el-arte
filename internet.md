@@ -1,0 +1,6 @@
+# Internet
+
+Con la aparición del vídeo en los 60 y 70, el arte empieza a interesarse por los _Mass-Media_ y por la realidad social mediatizada. El proceso creativo y de comunicación que Internet y la Web en concreto ha desarrollado es inmensamente más interesante como medio expresivo de lo que hasta antes de su aparición podíamos imaginar. En Internet no sólo podemos distribuir arte y ver arte a distancia de forma universal, además podemos ofrecer arte sin tener en cuenta para nada los conceptos de espacio y tiempo que rigen las exposiciones y los programas de cine y televisión, y ofrecer al espectador “algo más”: la interactividad con la obra. Estos conceptos, sólo superados en versatilidad por la realidad virtual, facilitan la divulgación y aceptación de obras y artistas de forma homogénea y sin tener en cuenta para nada aspectos críticos en función de, por ejemplo, volúmenes de ventas.
+
+Por todo ello, Internet se convierte por derecho propio en el principal medio futuro de expansión del arte, y a él empiezan a acercarse tímidamente museos de todo el mundo. Museos que, como es de imaginar, comenzarán a perder protagonismo como lugares de culto para el arte, relegándose su actuación al mantenimiento y depósito de las obras en función de aspectos puramente geográfico-históricos.
+
