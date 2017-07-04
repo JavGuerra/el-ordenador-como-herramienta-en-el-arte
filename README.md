@@ -1,6 +1,6 @@
 # El ordenador como herramienta en el arte
 
-\(CC BY\) Javier Guerra, Sept. 1997. Última revisión Sept. 2003. Publicado en GitBook en Jul. 2017._
+_\(CC BY\) Javier Guerra, Sept. 1997. Última revisión Sept. 2003. Publicado en GitBook en Jul. 2017._
 
 ## Resumen
 
