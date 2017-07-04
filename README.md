@@ -4,9 +4,9 @@ _\(CC BY\) Javier Guerra, Sept. 1997. Última revisión Sept. 2003. Publicado en
 
 ## Resumen
 
-Introduccion a los con conceptos de arte por ordenador y la implicación de los ordenadores en la obra artistica como herramienta o como generador de arte.
+Introduccion básica a los conceptos de arte por ordenador y los diferentes grados de implicación de los ordenadores en la obra artistica, bien como herramienta, a través de las respuestas basicas que pueden generar, o bien como generador directo de la obra de arte.
 
-Este contenido apareció originalmente en la Revista poética Almacén, en dos partes::
+Este contenido apareció en la Revista poética Almacén, en dos partes::
 
 1. [Computer Art \(I\)](http://www.librodenotas.com/almacen/Archivos/004652.html#4652) - Oct. 2003
 2. [Implicación del ordenador en el Arte \(y II\)](http://www.librodenotas.com/almacen/Archivos/004653.html#004653) - Nov. 2003
