@@ -11,7 +11,7 @@ Este contenido apareció originalmente en la Revista poética Almacén, en dos p
 
 Varias reseñas y datos incluidos en el texto tienen su origen en artículos publicados en revistas técnicas de Informática de la época, así como entrevistas públicadas de personajes destacados del mundo de la Cibercultura.
 
-El texto, visitado 20 años después de su fecha de elaboración como material didáctico para un taller de experimientación artística por ordenador en el MEIAC, sin duda muestra conceptos ya superados hoy, que se han mantenido en el documento para conocimiento de los lectores.
+El texto, visitado 20 años después de su fecha de elaboración como material didáctico para un taller de experimientación artística por ordenador en el MEIAC, sin duda muestra conceptos ya superados, que se han mantenido en el documento para conocimiento de los lectores.
 
 ## Introducción
 
